@@ -1,0 +1,4 @@
+# Write a program that will reverse a four digit number.Also it checks whether the reverse is true.
+
+strings = input("Enter some strings: ")
+print(strings[::-1])
